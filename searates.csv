@@ -1,0 +1,201 @@
+"origem";"destino";"pre�o";"companhia";"idFrete"
+Ningbo;Rotterdam;$ 14800;COSU;1953730
+Ningbo;Rotterdam;$ 14800;CMA CGM;1953731
+Qingdao;Southampton;$ 11220;EVERGREEN;1953732
+Shanghai;Hamburg;$ 7500;HLCU;1953733
+Ningbo;Rotterdam;$ 8400;DFA SPECIAL OFFER;1953734
+Ningbo;Rotterdam;$ 8600;OOCL;1953735
+Ningbo;Rotterdam;$ 8600;EVERGREEN;1953736
+Ningbo;Rotterdam;$ 8600;COSU;1953737
+Ningbo;Rotterdam;$ 8600;CMA CGM;1953738
+Calcutta;Colombo;$ 1540;PERMA;1953739
+Dongguan;Rotterdam;$ 9790;EVERGREEN;1953740
+Qingdao;Montreal;$ 13500;HLCU;1953741
+Shanghai;Hamburg;$ 15960;EVERGREEN;1953742
+Shanghai;Hamburg;$ 14700;COSU;1953743
+Shanghai;Hamburg;$ 14500;HLCU;1953744
+Istanbul;Shanghai;$ 1418;EVERGREEN;1953745
+Shanghai;Hamburg;$ 10450;EVERGREEN;1953746
+Shanghai;Hamburg;$ 8650;COSU;1953747
+Shanghai;Hamburg;$ 7500;HLCU;1953748
+Qingdao;Montreal;$ 13500;HLCU;1953749
+Saint Petersburg;Rotterdam;$ 1056;UNIFEEDER;1953750
+Dongguan;Rotterdam;$ 9790;EVERGREEN;1953751
+Genova;Karachi;$ 2911;CMA CGM;1953752
+Gdynia;Felixstowe;$ 1199;UNIFEEDER;1953753
+Saint Petersburg;Rotterdam;$ 1056;UNIFEEDER;1953754
+Gdynia;Liverpool;$ 1189;UNIFEEDER;1953755
+Dongguan;Rotterdam;$ 9790;EVERGREEN;1953756
+Dongguan;Rotterdam;$ 15435;EVERGREEN;1953757
+Yiwu;Odessa;$ 9680;EVERGREEN;1953758
+Yiwu;Odessa;$ 9600;MSC;1953759
+Gdynia;South Shields;$ 1184;UNIFEEDER;1953760
+Gdynia;South Shields;$ 1184;UNIFEEDER;1953761
+Izhevsk;Yerevan;$ 4074;OPTION;1953762
+Yantian;Tallinn;$ 10670;EVERGREEN;1953763
+Ningbo;Rotterdam;$ 8400;DFA SPECIAL OFFER;1953764
+Qingdao;Montreal;$ 17500;HLCU;1953765
+Ningbo;Rotterdam;$ 13400;DFA SPECIAL OFFER;1953766
+Qingdao;Montreal;$ 17500;HLCU;1953767
+Jebel Ali;Nhava Sheva;$ 212;HLCU;1953768
+Jebel Ali;Nhava Sheva;$ 365;CMA CGM;1953769
+Jebel Ali;Nhava Sheva;$ 149;PERMA;1953770
+Jiaxing;St Petersburg;$ 15540;EVERGREEN;1953771
+Qingdao;Montreal;$ 17500;HLCU;1953772
+Jiaxing;St Petersburg;$ 15540;EVERGREEN;1953773
+Qingdao;Montreal;$ 13500;HLCU;1953774
+Jiaxing;St Petersburg;$ 15540;EVERGREEN;1953775
+Qingdao;Montreal;$ 17500;HLCU;1953776
+Jebel Ali;Shanghai;$ 762;EVERGREEN;1953777
+Qingdao;Koper;$ 14700;CMA CGM;1953778
+Qingdao;Montreal;$ 13500;HLCU;1953779
+Jebel Ali;Shanghai;$ 550;EVERGREEN;1953780
+Jebel Ali;Mumbai;$ 1039;HLCU;1953781
+Jebel Ali;Mumbai;$ 855;HLCU;1953782
+Jebel Ali;Mumbai;$ 1286;CMA CGM;1953783
+Jebel Ali;Mumbai;$ 528;CMA CGM;1953784
+Jebel Ali;Mumbai;$ 284;PERMA;1953785
+Karachi;Hamburg;$ 8500;HLCU;1953786
+Guangzhou;Manzanillo;$ 10780;EVERGREEN;1953787
+Taicang;Rotterdam;$ 13400;DFA SPECIAL OFFER;1953788
+Jebel Ali;Mumbai;$ 432;HLCU;1953789
+Jebel Ali;Mumbai;$ 212;HLCU;1953790
+Jebel Ali;Mumbai;$ 679;CMA CGM;1953791
+Jebel Ali;Mumbai;$ 365;CMA CGM;1953792
+Jebel Ali;Mumbai;$ 149;PERMA;1953793
+Qingdao;Chelyabinsk;$ 10670;EVERGREEN;1953794
+Guangzhou;Pachuca;$ 10780;EVERGREEN;1953795
+Odessa;Kiev;$ 1700;SEJJ;1953796
+Mumbai;Bangkok;$ 1210;PERMA;1953797
+Mumbai;Bangkok;$ 1210;PERMA;1953798
+Qingdao;Vladivostok;$ 4750;MAERSK;1953799
+Qingdao;Vladivostok;$ 5565;KMTC;1953800
+Qingdao;Vladivostok;$ 4200;SEJJ;1953801
+Qingdao;Vladivostok;$ 4750;MSC;1953802
+Dongguan;Rotterdam;$ 9790;EVERGREEN;1953803
+Port Klang;Jawaharlal Nehru Sta...;$ 5775;EVERGREEN;1953804
+Shanghai;Madrid;$ 8500;MSC;1953805
+Shanghai;Madrid;$ 10395;EVERGREEN;1953806
+Jakarta;Long Beach;$ 17050;YMLU;1953807
+Jakarta;Long Beach;$ 17050;WANHAI;1953808
+Jakarta;Long Beach;$ 17050;CMA CGM;1953809
+Mumbai;Bangkok;$ 2100;PERMA;1953810
+Mumbai;Bangkok;$ 2100;PERMA;1953811
+Odessa;Kiev;$ 1700;SEJJ;1953812
+Odesa;Kyiv;$ 1700;SEJJ;1953813
+Manzanillo;Pachuca;$ 1691;OPTION;1953814
+Odesa;Kyiv;$ 1700;SEJJ;1953815
+Odesa;Kyiv;$ 1318;OPTION;1953816
+Odesa;Kyiv;$ 1800;SEJJ;1953817
+Odesa;Kyiv;$ 1800;SEJJ;1953818
+Odesa;Kyiv;$ 1318;OPTION;1953819
+Odesa;Kyiv;$ 2530;TO BE NOMINATED;1953820
+Odesa;Kyiv;$ 1673;TO BE NOMINATED;1953821
+Laguna Beach;Pachuca;$ 6822;OPTION;1953822
+Odesa;Kyiv;$ 1318;OPTION;1953823
+Ningbo;Bremen;$ 13400;DFA SPECIAL OFFER;1953824
+Sharjah;Singapore;$ 383;EVERGREEN;1953825
+Laguna Beach;Pachuca;$ 6584;OPTION;1953826
+Port Klang;Jawaharlal Nehru Sta...;$ 5775;EVERGREEN;1953827
+Qingdao;Jebel Ali;$ 4950;EVERGREEN;1953828
+Jebel Ali;Nhava Sheva;$ 212;HLCU;1953829
+Jebel Ali;Nhava Sheva;$ 365;CMA CGM;1953830
+Jebel Ali;Nhava Sheva;$ 149;PERMA;1953831
+Qingdao;Jebel Ali;$ 4950;EVERGREEN;1953832
+Qingdao;Jebel Ali;$ 4290;PERMA;1953833
+Qingdao;Jebel Ali;$ 4950;EVERGREEN;1953834
+Qingdao;Jebel Ali;$ 4290;PERMA;1953835
+Ho Chi Minh City;Rotterdam;$ 10120;EVERGREEN;1953836
+Qingdao;Jebel Ali;$ 7035;EVERGREEN;1953837
+Qingdao;Jebel Ali;$ 8190;PERMA;1953838
+Qingdao;Jebel Ali;$ 7035;EVERGREEN;1953839
+Qingdao;Jebel Ali;$ 8190;PERMA;1953840
+Ho Chi Minh City;Rotterdam;$ 16695;EVERGREEN;1953841
+Shanghai;Bremen;$ 13200;DFA SPECIAL OFFER;1953842
+Laguna Beach;Pachuca;$ 6584;OPTION;1953843
+Qingdao;Port Kelang;$ 2008;PERMA;1953844
+Port Klang;Nhava Sheva;$ 3045;EVERGREEN;1953845
+Seattle;Washington;$ 40158;TO BE NOMINATED;1953846
+Rotterdam;Shanghai;$ 935;EVERGREEN;1953847
+Qingdao;Felixstowe;$ 12210;EVERGREEN;1953848
+Qingdao;Felixstowe;$ 12210;EVERGREEN;1953849
+Qingdao;Felixstowe;$ 24420;EVERGREEN;1953850
+Qingdao;Felixstowe;$ 14805;MSC;1953851
+Qingdao;Felixstowe;$ 15015;MAERSK;1953852
+Qingdao;Felixstowe;$ 17535;EVERGREEN;1953853
+Qingdao;Tilbury;$ 14805;MSC;1953854
+Qingdao;Tilbury;$ 15015;MAERSK;1953855
+Qingdao;Tilbury;$ 17535;EVERGREEN;1953856
+Qingdao;Southampton;$ 15015;MAERSK;1953857
+Qingdao;Southampton;$ 14805;EVERGREEN;1953858
+Ningbo;Southampton;$ 15015;MAERSK;1953859
+Ningbo;Southampton;$ 14385;HLCU;1953860
+Shanghai;Mundra;$ 4400;EVERGREEN;1953861
+Jebel Ali;Cotonou;$ 6526;HLCU;1953862
+Jebel Ali;Cotonou;$ 7051;HLCU;1953863
+Jebel Ali;Cotonou;$ 7854;CMA CGM;1953864
+Jebel Ali;Cotonou;$ 7854;CMA CGM;1953865
+Jebel Ali;Cotonou;$ 6526;HLCU;1953866
+Jebel Ali;Cotonou;$ 7051;HLCU;1953867
+Jebel Ali;Cotonou;$ 7854;CMA CGM;1953868
+Jebel Ali;Cotonou;$ 7854;CMA CGM;1953869
+Dongguan;Rotterdam;$ 8400;DFA SPECIAL OFFER;1953870
+Shanghai;Trieste;$ 10890;EVERGREEN;1953871
+Dongguan;Rotterdam;$ 13400;DFA SPECIAL OFFER;1953872
+Tokyo;Mumbai;$ 9852;TO BE NOMINATED;1953873
+Jebel Ali;Port Kelang;$ 605;EVERGREEN;1953874
+Jebel Ali;Port Kelang;$ 275;PERMA;1953875
+United Kingdom;Klaipėda;$ 1469;UNIFEEDER;1953876
+United Kingdom;Klaipėda;$ 1500;UNIFEEDER;1953877
+United Kingdom;Klaipėda;$ 1500;UNIFEEDER;1953878
+United Kingdom;Klaipėda;$ 1403;UNIFEEDER;1953879
+Huston;Klaipeda;$ 3783;MSC;1953880
+Huston;Klaipeda;$ 3783;MSC;1953881
+Hamburg;Singapore;$ 893;EVERGREEN;1953882
+Shanghai;Durban;$ 4840;EVERGREEN;1953883
+Jiaxing;Thessaloniki;$ 10560;EVERGREEN;1953884
+Shanghai;Durban;$ 9240;EVERGREEN;1953885
+Jiaxing;Thessaloniki;$ 15540;EVERGREEN;1953886
+Shanghai;Durban;$ 4840;EVERGREEN;1953887
+Shanghai;Durban;$ 4840;EVERGREEN;1953888
+Shanghai;Durban;$ 4840;EVERGREEN;1953889
+Shanghai;Durban;$ 4840;EVERGREEN;1953890
+Jebel Ali;Lagos;$ 6272;HLCU;1953891
+Jebel Ali;Lagos;$ 6196;CMA CGM;1953892
+Tilbury;Halifax;$ 5380;HLCU;1953893
+Hamburg;Singapore;$ 893;EVERGREEN;1953894
+Tilbury;Halifax;$ 8260;HLCU;1953895
+Tilbury;Halifax;$ 5380;HLCU;1953896
+Jawaharlal Nehru Port;Constanța;$ 13965;HLCU;1953897
+Nhava Sheva;Southampton;$ 9660;CMA CGM;1953898
+Seoul;St Petersburg;$ 10780;CMA CGM;1953899
+Seoul;St Petersburg;$ 10780;CMA CGM;1953900
+18360 Huétor-Tájar;Castellón de la Plana;$ 917;OPTION;1953901
+Constanta;Port Qasim;$ 1488;HLCU;1953902
+Shanghai;Gdańsk;$ 13650;EVERGREEN;1953903
+Shanghai;Gdańsk;$ 14500;MAERSK;1953904
+Shanghai;Gdańsk;$ 15600;CMA CGM;1953905
+Shanghai;Gdańsk;$ 15600;COSU;1953906
+Shanghai;Gdańsk;$ 15600;OOCL;1953907
+Shanghai;Gdańsk;$ 13650;EVERGREEN;1953908
+Nhava Sheva;Bandar Abbas;$ 3885;TO BE NOMINATED;1953909
+Vancouver Centerm Te...;Shanghai;$ 1931;MSC;1953910
+Qingdao;Tashkent;$ 6380;EVERGREEN;1953911
+Vancouver Centerm Te...;Shanghai;$ 1931;MSC;1953912
+Shanghai;Odessa;$ 9680;EVERGREEN;1953913
+Shanghai;Odessa;$ 9700;MSC;1953914
+Jawaharlal Nehru Port;New York;$ 14650;MSC;1953915
+Jawaharlal Nehru Port;New York;$ 13703;MSC;1953916
+Port Klang;Ho Chi Minh City;$ 715;MSC;1953917
+Ho Chi Minh City;Antwerpen;$ 10120;EVERGREEN;1953918
+Port Klang;Rotterdam;$ 8608;MSC;1953919
+Shanghai;Knoxfield VIC 3180;$ 9345;EVERGREEN;1953920
+Shanghai;Knoxfield VIC 3180;$ 11107;ANL;1953921
+Salisbury;Minneapolis;$ 5380;HLCU;1953922
+Salisbury;Minneapolis;$ 5380;HLCU;1953923
+Salisbury;Minneapolis;$ 8460;HLCU;1953924
+Jakarta;Mundra;$ 3520;EVERGREEN;1953925
+Antwerpen;New York;$ 5720;EVERGREEN;1953926
+Qingdao;Vladivostok;$ 4750;MAERSK;1953927
+Qingdao;Vladivostok;$ 5565;KMTC;1953928
+Qingdao;Vladivostok;$ 4200;SEJJ;1953929

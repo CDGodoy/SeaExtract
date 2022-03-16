@@ -1,12 +1,12 @@
-Santos, BR
-Paranaguá, BR
-Suape, BR
-Itaqui, BR
-Vila do Conde, BR
-Manaus, BR
-Rotterdam, NL
-Houston, US
-Vancouver, CA
-Shanghai, CN
-Nanjing, CN
-Hong Kong, HK
+Santos,BR,-23.9678823,-46.3288865
+Paranaguá,BR,-25.5148826,-48.5225655
+Suape,BR,-8.3536618,-34.9575528
+Itaqui,BR,-23.5241805,-46.9428727
+Vila do Conde,PT,41.3517302,-8.7478619
+Manaus,BR,-3.1190275,-60.0217314
+Rotterdam,NL,51.9244201,4.4777326
+Houston,US,29.7604267,-95.3698028
+Vancouver,CA,49.2827291,-123.1207375
+Shanghai,CN,31.2303904,121.4737021
+Nanjing,CN,32.060255,118.796877
+HongKong,HK,22.3192011,114.1696121

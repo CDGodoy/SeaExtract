@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 
-df = pd.read_csv("routes2.csv", sep=";")
+df = pd.read_csv("routes.csv", sep=";")
 
 empresaNull = "Não informado"
 

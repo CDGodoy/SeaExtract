@@ -2,7 +2,7 @@ citiesArchive = open('cities.txt')
 cities = citiesArchive.readlines()
 lenCities = len(cities)
 
-routesArchive = open('routes2.csv', 'a')
+routesArchive = open('routes.csv', 'a')
 routesArchive.write('"Origem";"Pais de origem";"Latitude de origem";"Longitude de origem";"destino";"Pais de destino";"Latitude de destino";"Longitude de destino"\n')
 
 for i in range(lenCities):
